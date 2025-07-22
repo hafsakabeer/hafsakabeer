@@ -11,10 +11,10 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 B.Sc. in Mathematics & Computer Science  
+- 🎓 B.Sc. in Mathematics
 - 📜 PG Diploma in Financial Accounting & Company Management  
 - 🧠 Certified in Python (Illinois Tech) | Data Science with Python (Simplilearn)  
-- 💼 Looking for developer roles | Based in India (Hyderabad/Bangalore preferred)  
+- 💼 Looking for developer roles | Based in India  
 - 🌱 Currently sharpening my **Django**, **SQL**, and **Deployment** skills  
 - 🚀 Passionate about building real-world projects & solving problems through code
 
@@ -45,9 +45,8 @@
 
 ### 🔥 My Projects
 
-- 🎓 **[Online Learning Platform](#)** – Built with Django, SQL, HTML/CSS/JS  
-- 🏠 **[Property Exchange Web Platform](#)** – Adaptive full-stack app for real estate listing  
-
+- 🎓 **[Online Learning Platform](#)** – Built with Django, SQL, HTML/CSS/JS
+- ** Quote Generator**-Built with Flask, HTML/CSS
 > *Check my repositories for more!*
 
 ---
