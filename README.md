@@ -1,7 +1,7 @@
 <!-- Profile README for Hafsa Kabeer -->
 
 <h1 align="center">Hi 👋, I'm Hafsa </h1>
-<h3 align="center">Certified Python Developer | Django Enthusiast | Full Stack Learner</h3>
+<h3 align="center">Certified Python Full Stack Developer|Continuous Learner|Crafting Efficient Web Solutions</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5BCDEC&center=true&vCenter=true&width=435&lines=Passionate+Python+Developer;Django+Lover+%7C+Web+App+Builder;Always+learning+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
