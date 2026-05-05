@@ -11,7 +11,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 MASTERED COMPUTER APPLICATIONS(MCA)
+- 🎓 Mastering Computer Application (MCA)
 - 🎓 B.Sc. in Mathematics
 - 🧠 Certified in Python Developer 
 - 💼 Looking for developer roles | Based in India  
