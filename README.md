@@ -1,6 +1,6 @@
 <!-- Profile README for Hafsa Kabeer -->
 
-<h1 align="center">Hi 👋, I'm Hafsa Kabeer</h1>
+<h1 align="center">Hi 👋, I'm Hafsa </h1>
 <h3 align="center">Certified Python Developer | Django Enthusiast | Full Stack Learner</h3>
 
 <p align="center">
@@ -11,9 +11,9 @@
 
 ### 👩‍💻 About Me
 
+- 🎓 MASTERED COMPUTER APPLICATIONS(MCA)
 - 🎓 B.Sc. in Mathematics
-- 📜 PG Diploma in Financial Accounting & Company Management  
-- 🧠 Certified in Python (Illinois Tech) | Data Science with Python (Simplilearn)  
+- 🧠 Certified in Python Developer 
 - 💼 Looking for developer roles | Based in India  
 - 🌱 Currently sharpening my **Django**, **SQL**, and **Deployment** skills  
 - 🚀 Passionate about building real-world projects & solving problems through code
