@@ -15,7 +15,7 @@
 - 🎓 B.Sc. in Mathematics
 - 🧠 Certified in Python Developer 
 - 💼 Looking for developer roles | Based in India  
-- 🌱 Currently sharpening my **Django**, **SQL**, and **Deployment** skills  
+- 🌱 Currently sharpening my Django, SQL, AI/ML,AWS and Deployment skills while building full stack and intelligent web applications. 
 - 🚀 Passionate about building real-world projects & solving problems through code
 
 ---
@@ -35,8 +35,6 @@
 #### 🗄️ Databases & Tools
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
 </p>
@@ -45,11 +43,10 @@
 
 ### 🔥 My Projects
 
-- 🎓 **[Online Learning Platform](#)** – Built with Django, SQL, HTML/CSS/JS
-- ** Quote Generator**-Built with Flask, HTML/CSS
-> *Check my repositories for more!*
+- 🎓 **[Online Learning Platform](#)** – Built with Django, SQL, HTML/CSS/JS  
 
----
+- 💪 **[Fitness & Wellness Website](https://hafsakabeer.github.io/fitness-wellness-website/)** – Responsive fitness website built using HTML, CSS, and JavaScript with modern UI and wellness features.
+- More Repositories are there...
 
 ### 📈 GitHub Stats
 
